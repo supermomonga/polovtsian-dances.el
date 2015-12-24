@@ -6,6 +6,6 @@
 `M-x polovtsiab-dances`
 
 
-https://player.vimeo.com/video/149946136
+https://vimeo.com/149946136
 
 ![Polovtsian Dances](https://raw.githubusercontent.com/supermomonga/polovtsian-dances.el/master/ss.png)
