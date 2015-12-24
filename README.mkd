@@ -4,3 +4,6 @@
 # Polovtsian Dances
 
 `M-x polovtsiab-dances`
+
+<iframe src="https://player.vimeo.com/video/149946136" width="500" height="411" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149946136">polovtsian-dances.el</a> from <a href="https://vimeo.com/supermomonga">supermomonga</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
