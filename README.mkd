@@ -5,6 +5,6 @@
 
 `M-x polovtsiab-dances`
 
-[[https://raw.githubusercontent.com/supermomonga/polovtsian-dances.el/master/ss.png]]
+![[https://raw.githubusercontent.com/supermomonga/polovtsian-dances.el/master/ss.png]]
 
 https://player.vimeo.com/video/149946136
