@@ -3,7 +3,7 @@
 
 # Polovtsian Dances
 
-`M-x polovtsiab-dances`
+`M-x polovtsian-dances`
 
 
 https://vimeo.com/149946136
